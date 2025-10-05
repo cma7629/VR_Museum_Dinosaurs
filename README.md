@@ -9,8 +9,8 @@ For our Museum we decided on making a dinosaur exhibit! We focused mainly on the
 
 
 ![Screenshot 1]
-(link)
+[(link)](https://student.uncw.edu/sdh6113/Screenshot%202025-10-05%20155219.png)
 ![Screenshot 2]
-(link)
+[(link)](https://student.uncw.edu/sdh6113/Screenshot%202025-10-05%20155338.png)
 ![Screenshot 2]
-(link)
+[(link)](https://student.uncw.edu/sdh6113/Screenshot%202025-10-05%20155301.png)
